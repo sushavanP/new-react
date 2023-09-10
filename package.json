@@ -1,0 +1,31 @@
+{
+  "name": "new-react",
+  "version": "1.0.0",
+  "description": "This is a new React project.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "npx parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushavanP/new-react.git"
+  },
+  "author": "Sushavan Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushavanP/new-react/issues"
+  },
+  "homepage": "https://github.com/sushavanP/new-react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ]
+}
